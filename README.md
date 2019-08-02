@@ -6,5 +6,7 @@ This procedure is for scientific use only and can not be used for commercial pur
 
 
 We provide the code for open set domain adaptation algorithm, Distribution Alignment with Open Difference (DAOD).
-You just need to modify the path and run in matlab.
-MATLAB R2019a
+You just need to modify the path and run in matlab (we implement our code in MATLAB R2019a).
+
+
+
